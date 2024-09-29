@@ -13,9 +13,9 @@
 	<a href="https://pastedev.ru" target="_blank">
 		<img src="https://img.shields.io/badge/Shield_Website-green" alt="PasteDev Website" />
 	</a>
-	<a href="https://shieldprojects.ru" target="_blank">
+<!-- 	<a href="https://shieldprojects.ru" target="_blank">
 		<img src="https://img.shields.io/badge/PasteDev_Website-green" alt="Shield Website" />
-	</a>
+	</a> -->
 	<a href="https://t.me/ShieldDeveloper" target="_blank">
 		<img src="https://img.shields.io/badge/Contact_Author-gray" alt="Contact Author" />
 	</a>
